@@ -16,7 +16,7 @@ The client has provided a mock/comp for the for how they envision the microsite 
 - Use the provided mocks and assets to create a single-page web experience. You will need to lean on your judgement, as the mock is intentionally vague as to how to handle things like empty states, UI interactions, and the like.
 - Use the images provided in the `./assets` directory to create a slideshow.
 - Use 3rd party map service (provides an API to embed and work with maps) to create a map that allows users to select various markers to populate a dynamic sidebar with the available trims  for each marker.
-	- **Location 1:** A dealership in Brooklyn, - NY - All 3 trims are available
+	- **Location 1:** A dealership in Brooklyn, NY - All 3 trims are available
 	- **Location 2:** A dealership in Queens, NY - LS and LS HYBRID
 	- **Location 3:** A dealership in Newark, NJ - LS F SPORT
 	- **Location 4:** A dealership in Plainfield, NJ - 0 trims available
